@@ -1,5 +1,4 @@
 # BSAN6070_CA05_KNN
-# Movie Recommendation System with KNN
 
 # Overview
 
